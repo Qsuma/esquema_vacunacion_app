@@ -1,0 +1,2 @@
+D:/Proyectos/esquema_vacunacion_app/android/app/.cxx/RelWithDebInfo/1m593u2i/x86/CMakeFiles/edit_cache.dir
+D:/Proyectos/esquema_vacunacion_app/android/app/.cxx/RelWithDebInfo/1m593u2i/x86/CMakeFiles/rebuild_cache.dir
